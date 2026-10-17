@@ -2,7 +2,7 @@ package com.repanda.wallet.domain
 
 import java.time.Instant
 import java.util.*
-import javax.persistence.*
+import jakarta.persistence.*
 
 @Entity
 @Table(name = "verification_sessions")

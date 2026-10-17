@@ -1,0 +1,18 @@
+# Ignore local build and IDE files
+.gradle
+/build
+**/build
+out/
+.gradle-test-kit
+.gradle-version-lock
+
+# Git
+.git
+.gitignore
+
+# Local files
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
